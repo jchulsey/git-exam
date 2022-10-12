@@ -1,2 +1,4 @@
 # git-exam
 This is to complete a git exam. 
+I am editing the README file. Adding some more details about the project description.I am editing the README file. Adding some more details about the project description.I am editing the README file. Adding some more details about the project description.I am editing the README file. Adding some more details about the project description.I am editing the README file. Adding some more details about the project description.I am editing the README file. Adding some more details about the project description.I am editing the README file. Adding some more details about the project description.I am editing the README file. Adding some more details about the project description.I am editing the README file. Adding some more details about the project description.I am editing the README file. Adding some more details about the project description.
+
